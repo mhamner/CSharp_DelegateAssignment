@@ -1,0 +1,7 @@
+C:\Users\mark.hamner\source\repos\CSharp_DelegateAssignment\CSharp_DelegateAssignment\bin\Debug\CSharp_DelegateAssignment.exe.config
+C:\Users\mark.hamner\source\repos\CSharp_DelegateAssignment\CSharp_DelegateAssignment\bin\Debug\CSharp_DelegateAssignment.exe
+C:\Users\mark.hamner\source\repos\CSharp_DelegateAssignment\CSharp_DelegateAssignment\bin\Debug\CSharp_DelegateAssignment.pdb
+C:\Users\mark.hamner\source\repos\CSharp_DelegateAssignment\CSharp_DelegateAssignment\obj\Debug\CSharp_DelegateAssignment.csprojAssemblyReference.cache
+C:\Users\mark.hamner\source\repos\CSharp_DelegateAssignment\CSharp_DelegateAssignment\obj\Debug\CSharp_DelegateAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mark.hamner\source\repos\CSharp_DelegateAssignment\CSharp_DelegateAssignment\obj\Debug\CSharp_DelegateAssignment.exe
+C:\Users\mark.hamner\source\repos\CSharp_DelegateAssignment\CSharp_DelegateAssignment\obj\Debug\CSharp_DelegateAssignment.pdb
